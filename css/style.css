@@ -7,7 +7,7 @@ body {
   background-color: #f5f7fa;
   padding-left: 20px;
   padding-top: 40px;
-  padding-bottom: 40;
+  padding-bottom: 40px;
   padding-right: 20px;
   font-family: Montserrat;
 }
@@ -31,7 +31,7 @@ body {
   padding-top: 110px;
   padding-bottom: 110px;
   padding-left: 90px;
-  padding-right: 90px;  
+  padding-right: 90px;
 }
 .contact-container {
   margin-top: 60px;
@@ -107,11 +107,6 @@ body {
   font-size: 16px;
   font-weight: 800;
   line-height: 24px;
-  /* margin: 23px; */
-
-/* width: 160px;
-height: 14px;
-color: #000000; */
 }
 .name {
   font-size: 40px;
@@ -129,7 +124,6 @@ color: #000000; */
   margin-bottom: 45px;
 
 }
-
 
 .about-me-title {
   font-size: 22px;
